@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/henkvankampen">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mastodon.social/@h_vk">
-    <img src="https://shields.io/badge/Mastodon-blue?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge"/>
+    <img src="https://shields.io/badge/Mastodon-darkgreen?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
+  <a href="https://instagram.com/h_vk">
+    <img src="https://shields.io/badge/Instagram-darkgreen?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>

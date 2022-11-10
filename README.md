@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I work for [Profit4Cloud](https://profit4cloud.nl/) as a software developer
-- 🌱 I specialize in Java, Kotlin, Azure
+- 💻 I work for [Profit4Cloud](https://profit4cloud.nl/) as a software developer
+- 🔭 I specialize in Java, Kotlin, Azure
 - ❤️ I love music, art, theater, genealogy
 - 😄 Pronouns: He/him
 

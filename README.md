@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://mastodon.social/@h_vk">
     <img src="https://shields.io/badge/Mastodon-darkgreen?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
-  <a href="https://instagram.com/h_vk">
+  <a href="https://instagram.com/hbvk">
     <img src="https://shields.io/badge/Instagram-darkgreen?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>

@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - 💻 I work for [Profit4Cloud](https://profit4cloud.nl/) as a software developer
 - 🔭 I specialize in Java, Kotlin, Azure
+- 📜 Oracle Certified Java Programmer
+- 📜 Microsoft Certified Azure Developer
 - ❤️ I love music, art, theater, genealogy
-- 😄 Pronouns: He/him
+- 👯‍♂️ Pronouns: He/him
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/henkvankampen">

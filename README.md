@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I work for [Profit4Cloud](https://profit4cloud.nl/) as a software developer
 - 🔭 I specialize in Java, Kotlin, Azure
+- 🖧 CI/CD and DevOps please
 - 📜 Oracle Certified Java Programmer
 - 📜 Microsoft Certified Azure Developer
 - ❤️ I love music, art, theater, genealogy

@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I work for [Profit4Cloud](https://profit4cloud.nl/) as a software developer
+- 💻 I work for [Profit4Cloud](https://profit4cloud.nl/) (or P4C) as a software developer
 - 🔭 I specialize in Java backend development
 - 🖧 CI/CD and DevOps please
 - 📜 Oracle Certified Java Programmer
 - 📜 Microsoft Certified Azure Developer
+- 🌱 Currently learning OpenShift
 - ❤️ I love music, art, theater, genealogy
 - 👯‍♂️ Pronouns: He/him
 

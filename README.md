@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I work for [Profit4Cloud](https://profit4cloud.nl/) (or P4C) as a software developer
 - 🔭 I specialize in Java backend development
-- 🖧 CI/CD and DevOps please
+- 🖧 CI/CD and DevOps 
 - 📜 Oracle Certified Java Programmer
 - 📜 Microsoft Certified Azure Developer
 - 🌱 Currently learning OpenShift
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
